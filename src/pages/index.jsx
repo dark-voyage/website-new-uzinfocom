@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Uzinfocom Open Source - O'zbek Open Source rivojlantiruvchi hamjamiyat</title>
+        <title>Uzinfocom Open Source - O&#39;zbek Open Source rivojlantiruvchi hamjamiyat</title>
         <meta
           name="description"
           content="At DeceptiConf you’ll learn about the latest dark patterns being developed to trick even the smartest visitors, and you’ll learn how to deploy them without ever being detected."
