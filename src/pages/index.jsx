@@ -15,7 +15,7 @@ export default function Home() {
         <title>Uzinfocom Open Source - O&#39;zbek Open Source rivojlantiruvchi hamjamiyat</title>
         <meta
           name="description"
-          content="At DeceptiConf you’ll learn about the latest dark patterns being developed to trick even the smartest visitors, and you’ll learn how to deploy them without ever being detected."
+          content="Uzinfocom Open Source bu Uzinfocom kompaniyasi tomonidan tashkil etilgan va o'zbek dasturchilaridan tashkil topgan Open Source rivojlantiruvchi hamjamiyat."
         />
       </Head>
       <Header />
